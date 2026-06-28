@@ -100,7 +100,7 @@ const CONFIG = {
     {
       type: "profile",
       wishTitle: "Happy Birthday!",
-      wishText: "Moga panjang umur biar tiap tahun bisa traktirin aku wkwk 😆❤️ \n\nOh iya, semoga di hari spesialmu ini kamu dapat menjadi pribadi yang lebih baik yaa.. 🥳❤️",
+      wishText: "Moga panjang umur biar tiap tahun bisa traktirin aku wkwk 😆❤️ /n/nOh iya, semoga di hari spesialmu ini kamu dapat menjadi pribadi yang lebih baik yaa.. 🥳❤️",
     },
     {
       type: "fireworks",
@@ -112,7 +112,7 @@ const CONFIG = {
     },
     {
       type: "closing",
-      text: "Oke, coba balik lagi ya dan kasih tahu aku, kamu suka engga",
+      text: "Yeyy, kasih tau aku, kamu suka engga",
       replayText: "Atau ketuk, kalo mau liat sekali lagi.",
     },
   ],
