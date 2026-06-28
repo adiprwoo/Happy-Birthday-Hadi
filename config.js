@@ -65,12 +65,12 @@ const CONFIG = {
     },
     {
       type: "announcement",
-      text: "Ini hari ultah kamu!! :D",
+      text: "Hari ini ultah kamu!! :D",
     },
     {
       type: "chatbox",
       message:
-        "HBD yaa!! Semoga tahun ini makin seru, makin bahagia, dan semua yang kamu pengen kecapai semuaa.",
+        "HBD yaa!! Semoga tahun ini makin seru, makin bahagia, dan semua yang Hadi pengen kecapai semuaa.",
       buttonText: "Kirim",
     },
     {
@@ -78,7 +78,7 @@ const CONFIG = {
       lines: [
         "Aku sempet kepikiran kirim ucapan lewat WA.",
         "Tapi akhirnya aku batalin.",
-        "I realised, Aku pengen bikin sesuatu yang lebih <strong>spesial</strong>.",
+        "Aku pengen bikin sesuatu yang lebih <strong>spesial</strong>.",
         "Karena,",
         "Kamu spesial mwehehe <span>:)</span>",
       ],
@@ -100,7 +100,7 @@ const CONFIG = {
     {
       type: "profile",
       wishTitle: "Happy Birthday!",
-      wishText: "Moga panjang umur biar tiap tahun bisa traktirin aku wkwk 😆❤️ /n/nOh iya, semoga di hari spesialmu ini kamu dapat menjadi pribadi yang lebih baik yaa.. 🥳❤️",
+      wishText: "Moga panjang umur biar tiap tahun bisa traktirin aku wkwk 😆❤️ \n\nOh iya, semoga di hari spesialmu ini Hadi dapat menjadi pribadi yang lebih baik yaa.. 🥳❤️",
     },
     {
       type: "fireworks",
@@ -112,7 +112,7 @@ const CONFIG = {
     },
     {
       type: "closing",
-      text: "Yeyy, kasih tau aku, kamu suka engga",
+      text: "Yeyy, kasih tau aku, Hadi suka engga",
       replayText: "Atau ketuk, kalo mau liat sekali lagi.",
     },
   ],
